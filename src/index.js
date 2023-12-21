@@ -3,8 +3,8 @@ import "./index.css";
 import App from "./App";
 import { AppProvider } from "./Components/context";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import "slick-carousel/slick/slick.css";
-import "slick-carousel/slick/slick-theme.css";
+import "slick.css";
+import "slick-theme.css";
 import { QueryClient, QueryClientProvider } from "react-query";
 import { createRoot } from 'react-dom/client';
 
